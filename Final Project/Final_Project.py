@@ -7,8 +7,7 @@ questions = {"1: What nationality is David Beckham?" : "english",
              "7: What is the currency in Japan?": "japanese yen",
              "8: Which year did Mustafa Kemal Atatürk died?": "1938",
              "9: Where is the head office of the Global IA Hub": "switzerland",
-             "10: -What does WHO stand for?": "world health organisation"
-             }
+             "10: -What does WHO stand for?": "world health organisation"}
 score = 0
 for question, answer in questions.items():
     print(f"QUESTION {question}")
