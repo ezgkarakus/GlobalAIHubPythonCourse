@@ -10,5 +10,5 @@
 **Email:** dncerozge@gmail.com
 
 ### Certification
-![](C:\Users\pc\Desktop\pythonprogramming.png)
+![](https://verified-bucket.s3.eu-central-1.amazonaws.com/cert/60796506034614.png)
 
