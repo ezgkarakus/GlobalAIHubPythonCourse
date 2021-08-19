@@ -10,5 +10,5 @@
 **Email:** dncerozge@gmail.com
 
 ### Certification
-![](img/TopLearnerCertificate.png)
+![](C:\Users\pc\Desktop\pythonprogramming.png)
 
